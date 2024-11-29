@@ -1,3 +1,21 @@
+# Dataset
+ajhg/
+
+# Intermediary files
+test/
+hwe/
+maf/
+geno/
+mind/
+sex/
+chr/
+cryptic/
+pca/
+ass_test/
+assoc_ci/
+assoc_nopca/
+pca1/
+
 # History files
 .Rhistory
 .Rapp.history
